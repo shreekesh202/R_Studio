@@ -1,2 +1,2 @@
-# R_Studio
+# datasciencecoursera
 It is for Rstudio Practice
